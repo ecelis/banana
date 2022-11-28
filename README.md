@@ -30,3 +30,11 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Firebase local
+
+```
+npm run firebase
+```
+
+Visit http://localhost:5000/
